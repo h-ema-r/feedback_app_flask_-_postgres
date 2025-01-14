@@ -15,4 +15,7 @@ pipenv install
 python app.py
 ```
 
-##
+## Output
+(https://github.com/h-ema-r/feedback_app_flask_-_postgres/blob/main/page2.png)
+&
+(https://github.com/h-ema-r/feedback_app_flask_-_postgres/blob/main/page1.png)
